@@ -1,0 +1,10 @@
+{
+  "name": "com.amaze.logviewer.Test",
+  "references": [
+    "com.amaze.logviewer"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
